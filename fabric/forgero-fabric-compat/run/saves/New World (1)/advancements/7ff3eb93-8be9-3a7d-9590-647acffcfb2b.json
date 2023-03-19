@@ -1,0 +1,112 @@
+{
+  "forgero:forgero/binding": {
+    "criteria": {
+      "default": "2023-03-19 22:07:09 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs": {
+    "criteria": {
+      "has_polished_granite": "2023-03-19 22:03:38 +0100"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/aeternium_pickaxe": {
+    "criteria": {
+      "has_0_aeternium_pickaxe_head": "2023-03-19 22:03:38 +0100"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_shovel_diamond": {
+    "criteria": {
+      "has_22_cincinnasite_shovel": "2023-03-19 22:03:38 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab": {
+    "criteria": {
+      "has_polished_granite": "2023-03-19 22:03:38 +0100"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/granite_pedestal": {
+    "criteria": {
+      "has_1019_polished_granite": "2023-03-19 22:03:38 +0100"
+    },
+    "done": true
+  },
+  "betternether:cincinnasite_tools": {
+    "criteria": {
+      "cincinnasite_pickaxe": "2023-03-19 22:03:38 +0100",
+      "cincinnasite_shovel": "2023-03-19 22:03:38 +0100"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_hoe_diamond": {
+    "criteria": {
+      "has_28_cincinnasite_hoe": "2023-03-19 22:03:38 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2023-03-19 22:03:38 +0100"
+    },
+    "done": true
+  },
+  "forgero:forgero/head": {
+    "criteria": {
+      "default": "2023-03-19 22:03:38 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2023-03-19 22:05:23 +0100"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_pickaxe_diamond": {
+    "criteria": {
+      "has_19_cincinnasite_pickaxe": "2023-03-19 22:03:38 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2023-03-19 22:03:38 +0100"
+    },
+    "done": true
+  },
+  "forgero:forgero/handle": {
+    "criteria": {
+      "default": "2023-03-19 22:05:10 +0100"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_axe_diamond": {
+    "criteria": {
+      "has_25_cincinnasite_axe": "2023-03-19 22:03:38 +0100"
+    },
+    "done": true
+  },
+  "forgero:forgero/root": {
+    "criteria": {
+      "default": "2023-03-19 22:03:38 +0100"
+    },
+    "done": true
+  },
+  "forgero:forgero/toolpart": {
+    "criteria": {
+      "heads": "2023-03-19 22:03:38 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2023-03-19 22:03:38 +0100"
+    },
+    "done": false
+  },
+  "DataVersion": 3120
+}

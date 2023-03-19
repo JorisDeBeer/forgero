@@ -1,0 +1,81 @@
+{
+  "forgero:forgero/binding": {
+    "criteria": {
+      "default": "2023-03-19 22:11:15 +0100"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/aeternium_pickaxe": {
+    "criteria": {
+      "has_0_aeternium_pickaxe_head": "2023-03-19 22:10:24 +0100"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_shovel_diamond": {
+    "criteria": {
+      "has_22_cincinnasite_shovel": "2023-03-19 22:10:24 +0100"
+    },
+    "done": true
+  },
+  "betternether:cincinnasite_tools": {
+    "criteria": {
+      "cincinnasite_pickaxe": "2023-03-19 22:10:24 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2023-03-19 22:11:08 +0100"
+    },
+    "done": true
+  },
+  "forgero:forgero/head": {
+    "criteria": {
+      "default": "2023-03-19 22:11:14 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2023-03-19 22:10:24 +0100"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_pickaxe_diamond": {
+    "criteria": {
+      "has_19_cincinnasite_pickaxe": "2023-03-19 22:10:24 +0100"
+    },
+    "done": true
+  },
+  "forgero:forgero/handle": {
+    "criteria": {
+      "default": "2023-03-19 22:11:14 +0100"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_axe_diamond": {
+    "criteria": {
+      "has_25_cincinnasite_axe": "2023-03-19 22:10:24 +0100"
+    },
+    "done": true
+  },
+  "forgero:forgero/root": {
+    "criteria": {
+      "default": "2023-03-19 22:10:24 +0100"
+    },
+    "done": true
+  },
+  "forgero:forgero/toolpart": {
+    "criteria": {
+      "handles": "2023-03-19 22:11:14 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2023-03-19 22:10:24 +0100"
+    },
+    "done": false
+  },
+  "DataVersion": 3120
+}

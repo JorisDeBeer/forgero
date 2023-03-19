@@ -1,0 +1,27 @@
+{
+  "forgero:forgero/binding": {
+    "criteria": {
+      "default": "2023-03-19 15:22:11 +0100"
+    },
+    "done": true
+  },
+  "forgero:forgero/root": {
+    "criteria": {
+      "default": "2023-03-19 15:22:11 +0100"
+    },
+    "done": true
+  },
+  "forgero:forgero/toolpart": {
+    "criteria": {
+      "bindings": "2023-03-19 15:22:11 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2023-03-19 15:21:46 +0100"
+    },
+    "done": false
+  },
+  "DataVersion": 3120
+}
