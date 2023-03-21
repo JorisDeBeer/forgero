@@ -35,6 +35,20 @@
             "type:SHOVEL"
           ],
           "template": "shovel_binding.png"
+        },
+        {
+          "target": [
+            "type:PICKAXE",
+            "model:cincinnasite_pickaxe.png"
+          ],
+          "template": "cincinnasite_pickaxe_binding.png"
+        },
+        {
+          "target": [
+            "type:AXE",
+            "model:double_headed_axe_head.png"
+          ],
+          "template": "double_headed_axe_head_binding.png"
         }
       ]
     },
@@ -136,6 +150,16 @@
         },
         {
           "target": [
+            "type:AXE",
+            "model:double_headed_axe_head.png"
+          ],
+          "offset": [
+            2,
+            2
+          ]
+        },
+        {
+          "target": [
             "type:HOE"
           ],
           "offset": [
@@ -159,6 +183,16 @@
           "offset": [
             -1,
             -1
+          ]
+        },
+        {
+          "target": [
+            "type:PICKAXE",
+            "model:cincinnasite_pickaxe.png"
+          ],
+          "offset": [
+            3,
+            3
           ]
         }
       ]
