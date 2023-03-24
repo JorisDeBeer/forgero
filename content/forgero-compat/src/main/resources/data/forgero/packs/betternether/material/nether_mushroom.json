@@ -1,10 +1,10 @@
 {
   "type": "WOOD",
-  "name": "nether_sakura",
+  "name": "mushroom",
   "parent": "wood",
   "container": {
     "type": "HOST",
-    "id": "betternether:nether_sakura_planks"
+    "id": "betternether:nether_mushroom_planks"
   },
   "properties": {
     "attributes": [
@@ -21,13 +21,20 @@
         "order": "COMPOSITE",
         "operation": "ADDITION",
         "category": "ALL",
-        "value": 45
+        "value": 30
+      },
+      {
+        "id": "wood-weight-composite",
+        "type": "WEIGHT",
+        "order": "COMPOSITE",
+        "operation": "ADDITION",
+        "value": 3
       }
     ],
     "passive": [],
     "active": []
   },
   "palette": {
-    "name": "nether_sakura"
+    "name": "nether_mushroom"
   }
 }
