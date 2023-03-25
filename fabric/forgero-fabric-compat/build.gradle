@@ -53,6 +53,8 @@ dependencies {
 	modImplementation "maven.modrinth:gc8OEnCC:5CIFclEA"
 	modImplementation "maven.modrinth:MpzVLzy5:InVK1xFf"
 
+	//JEI
+	modImplementation "maven.modrinth:u6dRKJwZ:Fq2JkIID"
 
 	//emi
 	//modCompileOnly "dev.emi:emi:${emi_version}:api"

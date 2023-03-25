@@ -34,6 +34,20 @@
         },
         {
           "target": [
+            "type:SHOVEL",
+            "model:piglin_shovel_head.png"
+          ],
+          "template": "piglin_handle.png"
+        },
+        {
+          "target": [
+            "type:HOE",
+            "model:piglin_hoe_head.png"
+          ],
+          "template": "piglin_handle.png"
+        },
+        {
+          "target": [
             "type:SWORD"
           ],
           "template": "short_handle.png"
@@ -87,6 +101,17 @@
           "offset": [
             -1,
             -1
+          ]
+        },
+        {
+          "target": [
+            "type:SWORD",
+            "type:HANDLE",
+            "model:piglin_pommel.png"
+          ],
+          "offset": [
+            0,
+            0
           ]
         }
       ]

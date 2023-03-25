@@ -1,6 +1,6 @@
 {
   "type": "PUMMEL_SCHEMATIC",
-  "name": "round_pommel-schematic",
+  "name": "piglin_pommel-schematic",
   "container": {
     "type": "CREATE",
     "id": "this"

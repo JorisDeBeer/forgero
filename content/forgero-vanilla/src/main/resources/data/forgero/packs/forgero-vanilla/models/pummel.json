@@ -31,6 +31,18 @@
         },
         {
           "target": [
+            "type:SWORD",
+            "type:PUMMEL",
+            "type:HANDLE",
+            "model:piglin_pommel.png"
+          ],
+          "offset": [
+            2,
+            2
+          ]
+        },
+        {
+          "target": [
             "type:HANDLE"
           ]
         }

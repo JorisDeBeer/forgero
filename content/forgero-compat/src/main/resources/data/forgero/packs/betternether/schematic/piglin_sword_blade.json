@@ -1,13 +1,14 @@
 {
-  "type": "PICKAXE_HEAD_SCHEMATIC",
-  "name": "cincinnasite_pickaxe_head-schematic",
-  "parent": "pickaxe_head_base",
+  "type": "SWORD_BLADE_SCHEMATIC",
+  "name": "piglin_sword_blade-schematic",
+  "parent": "sword_blade_base",
+  "resource_type": "DEFAULT",
   "container": {
     "type": "CREATE",
     "id": "this"
   },
   "construct": {
-    "type": "PICKAXE_HEAD",
+    "type": "SWORD_BLADE",
     "target": "CREATE",
     "recipes": [
       {
@@ -19,7 +20,7 @@
           {
             "type": "TOOL_MATERIAL",
             "unique": true,
-            "amount": 3
+            "amount": 2
           }
         ]
       }
@@ -39,15 +40,17 @@
         "category": [
           "OFFENSIVE"
         ],
-        "type": "MATERIAL",
+        "description": "sword_tip",
+        "type": "TOOL_MATERIAL",
         "tier": 1
       },
       {
         "upgrade_type": "SMITHING",
         "category": [
-          "OFFENSIVE"
+          "UTILITY"
         ],
-        "type": "TRINKET",
+        "description": "scabbard",
+        "type": "LEATHER",
         "tier": 1
       }
     ]
@@ -55,46 +58,38 @@
   "properties": {
     "attributes": [
       {
-        "type": "RARITY",
-        "order": "BASE",
-        "category": "LOCAL",
-        "operation": "ADDITION",
-        "value": 74
-      },
-      {
-        "id": "schematic_base_rarity_multiplication",
-        "type": "RARITY",
+        "type": "MINING_SPEED",
         "order": "COMPOSITE",
         "operation": "MULTIPLICATION",
-        "value": 1.45
+        "value": 1
       },
       {
         "type": "DURABILITY",
         "order": "COMPOSITE",
         "operation": "MULTIPLICATION",
-        "value": 1.25
+        "value": 1
       },
       {
         "type": "ATTACK_DAMAGE",
         "order": "COMPOSITE",
         "operation": "MULTIPLICATION",
-        "value": 1.7
-      },
-      {
-        "type": "MINING_SPEED",
-        "order": "COMPOSITE",
-        "operation": "MULTIPLICATION",
-        "value": 1.2
+        "value": 2
       },
       {
         "type": "ATTACK_SPEED",
         "order": "COMPOSITE",
         "operation": "ADDITION",
-        "value": -2.6
+        "value": -2.4
+      },
+      {
+        "type": "WEIGHT",
+        "order": "COMPOSITE",
+        "operation": "MULTIPLICATION",
+        "value": 0.2
       }
     ]
   },
   "custom_data": {
-    "ingredient_count": "3"
+    "ingredient_count": "2"
   }
 }

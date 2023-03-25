@@ -6,26 +6,26 @@
       "variants": [
         {
           "target": [
-            "model:cincinnasite_axe.png"
+            "model:piglin_axe_head.png"
           ],
-          "template": "cincinnasite_axe_reinforcement.png"
+          "template": "piglin_axe_head_reinforcement.png"
         }
       ]
     },
     {
-      "name": "cincinnasite_axe_head",
+      "name": "piglin_axe_head",
       "type": "GENERATE",
-      "template": "cincinnasite_axe.png",
+      "template": "piglin_axe_head.png",
       "palette": "TOOL_MATERIAL",
       "order": 20
     },
     {
       "target": [
         "type:TOOL_MATERIAL",
-        "id:cincinnasite_axe_head-schematic"
+        "id:piglin_axe_head-schematic"
       ],
       "modelType": "BASED_COMPOSITE",
-      "template": "cincinnasite_axe_head"
+      "template": "piglin_axe_head"
     }
   ]
 }
