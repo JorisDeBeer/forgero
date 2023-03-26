@@ -1,0 +1,494 @@
+{
+  "bclib:recipes/decorations/tag_cauldron": {
+    "criteria": {
+      "has_tag_iron_ingots": "2023-03-26 16:46:20 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/iron_bars": {
+    "criteria": {
+      "has_iron_ingot": "2023-03-26 16:46:20 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_sword": {
+    "criteria": {
+      "has_iron_ingot": "2023-03-26 16:46:20 +0200"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/nether_ruby_pickaxe": {
+    "criteria": {
+      "has_33_nether_ruby": "2023-03-26 16:46:21 +0200"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/iron_chandelier": {
+    "criteria": {
+      "has_1222_iron_ingot": "2023-03-26 16:46:20 +0200"
+    },
+    "done": true
+  },
+  "bclib:recipes/decorations/tag_minecart": {
+    "criteria": {
+      "has_tag_iron_ingots": "2023-03-26 16:46:20 +0200"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/nether_ruby_helmet": {
+    "criteria": {
+      "has_35_nether_ruby": "2023-03-26 16:46:21 +0200"
+    },
+    "done": true
+  },
+  "bclib:recipes/decorations/tag_compass": {
+    "criteria": {
+      "has_tag_iron_ingots": "2023-03-26 16:46:20 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2023-03-26 16:46:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2023-03-26 16:46:20 +0200"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_axe_diamond": {
+    "criteria": {
+      "has_24_diamond": "2023-03-26 16:46:21 +0200",
+      "has_26_diamond": "2023-03-26 16:46:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2023-03-26 16:46:21 +0200"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/aeternium_axe": {
+    "criteria": {
+      "has_0_aeternium_axe_head": "2023-03-26 16:46:20 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_pickaxe": {
+    "criteria": {
+      "has_iron_ingot": "2023-03-26 16:46:20 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/minecart": {
+    "criteria": {
+      "has_iron_ingot": "2023-03-26 16:46:20 +0200"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/iron_bulb_lantern": {
+    "criteria": {
+      "has_1170_iron_ingot": "2023-03-26 16:46:20 +0200"
+    },
+    "done": true
+  },
+  "forgero:forgero/toolpart": {
+    "criteria": {
+      "heads": "2023-03-26 16:46:20 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2023-03-26 16:46:20 +0200"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/nether_ruby_sword": {
+    "criteria": {
+      "has_30_nether_ruby": "2023-03-26 16:46:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2023-03-26 16:46:21 +0200"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/iron_door": {
+    "criteria": {
+      "has_iron_ingot": "2023-03-26 16:46:20 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2023-03-26 16:46:21 +0200"
+    },
+    "done": true
+  },
+  "forgero:forgero/binding": {
+    "criteria": {
+      "default": "2023-03-26 16:46:20 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_hoe": {
+    "criteria": {
+      "has_iron_ingot": "2023-03-26 16:46:20 +0200"
+    },
+    "done": true
+  },
+  "bclib:recipes/decorations/tag_bucket": {
+    "criteria": {
+      "has_tag_iron_ingots": "2023-03-26 16:46:20 +0200"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/aeternium_pickaxe": {
+    "criteria": {
+      "has_0_aeternium_pickaxe_head": "2023-03-26 16:46:20 +0200"
+    },
+    "done": true
+  },
+  "betterend:recipes/tools/diamond_hammer": {
+    "criteria": {
+      "has_1232_diamond": "2023-03-26 16:46:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget": {
+    "criteria": {
+      "has_iron_ingot": "2023-03-26 16:46:20 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2023-03-26 16:46:20 +0200"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_hoe_diamond": {
+    "criteria": {
+      "has_27_diamond": "2023-03-26 16:46:21 +0200",
+      "has_29_diamond": "2023-03-26 16:46:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_iron_ingot": "2023-03-26 16:46:20 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2023-03-26 16:46:20 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_shovel": {
+    "criteria": {
+      "has_iron_ingot": "2023-03-26 16:46:20 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2023-03-26 16:46:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2023-03-26 16:46:20 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_trapdoor": {
+    "criteria": {
+      "has_iron_ingot": "2023-03-26 16:46:20 +0200"
+    },
+    "done": true
+  },
+  "bclib:recipes/decorations/tag_smith_table": {
+    "criteria": {
+      "has_tag_iron_ingots": "2023-03-26 16:46:20 +0200"
+    },
+    "done": true
+  },
+  "bclib:recipes/decorations/tag_rail": {
+    "criteria": {
+      "has_tag_iron_ingots": "2023-03-26 16:46:20 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/shears": {
+    "criteria": {
+      "has_iron_ingot": "2023-03-26 16:46:20 +0200"
+    },
+    "done": true
+  },
+  "betterend:recipes/tools/iron_hammer": {
+    "criteria": {
+      "has_1228_iron_ingot": "2023-03-26 16:46:20 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2023-03-26 16:46:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2023-03-26 16:46:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_iron_ingot": "2023-03-26 16:46:20 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2023-03-26 16:46:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2023-03-26 16:46:21 +0200"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/nether_ruby_boots": {
+    "criteria": {
+      "has_38_nether_ruby": "2023-03-26 16:46:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2023-03-26 16:46:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_leggings": {
+    "criteria": {
+      "has_iron_ingot": "2023-03-26 16:46:20 +0200"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_pickaxe_diamond": {
+    "criteria": {
+      "has_20_diamond": "2023-03-26 16:46:21 +0200",
+      "has_18_diamond": "2023-03-26 16:46:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2023-03-26 16:46:20 +0200"
+    },
+    "done": true
+  },
+  "forgero:forgero/handle": {
+    "criteria": {
+      "default": "2023-03-26 16:46:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/shield": {
+    "criteria": {
+      "has_iron_ingot": "2023-03-26 16:46:20 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_ingot": "2023-03-26 16:46:20 +0200"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/nether_ruby_leggings": {
+    "criteria": {
+      "has_39_nether_ruby": "2023-03-26 16:46:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2023-03-26 16:46:20 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bucket": {
+    "criteria": {
+      "has_iron_ingot": "2023-03-26 16:46:20 +0200"
+    },
+    "done": true
+  },
+  "bclib:recipes/decorations/tag_hopper": {
+    "criteria": {
+      "has_tag_iron_ingots": "2023-03-26 16:46:20 +0200"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/nether_ruby_chestplate": {
+    "criteria": {
+      "has_32_nether_ruby": "2023-03-26 16:46:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_boots": {
+    "criteria": {
+      "has_iron_ingot": "2023-03-26 16:46:20 +0200"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/nether_ruby_axe": {
+    "criteria": {
+      "has_40_nether_ruby": "2023-03-26 16:46:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/hopper": {
+    "criteria": {
+      "has_iron_ingot": "2023-03-26 16:46:20 +0200"
+    },
+    "done": true
+  },
+  "betternether:ruby_ore": {
+    "criteria": {
+      "ruby_ore": "2023-03-26 16:46:21 +0200"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_shovel_diamond": {
+    "criteria": {
+      "has_23_diamond": "2023-03-26 16:46:21 +0200",
+      "has_21_diamond": "2023-03-26 16:46:21 +0200"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_sword_diamond": {
+    "criteria": {
+      "has_17_diamond": "2023-03-26 16:46:21 +0200",
+      "has_15_diamond": "2023-03-26 16:46:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_ingot": "2023-03-26 16:46:20 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2023-03-26 16:46:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2023-03-26 16:46:21 +0200"
+    },
+    "done": true
+  },
+  "forgero:forgero/head": {
+    "criteria": {
+      "default": "2023-03-26 16:46:20 +0200"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/nether_ruby_hoe": {
+    "criteria": {
+      "has_42_nether_ruby": "2023-03-26 16:46:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2023-03-26 16:46:21 +0200"
+    },
+    "done": true
+  },
+  "bclib:recipes/decorations/tag_shield": {
+    "criteria": {
+      "has_tag_iron_ingots": "2023-03-26 16:46:20 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2023-03-26 16:46:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2023-03-26 16:46:20 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_iron_ingot": "2023-03-26 16:46:20 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2023-03-26 16:46:20 +0200"
+    },
+    "done": true
+  },
+  "bclib:recipes/decorations/tag_piston": {
+    "criteria": {
+      "has_tag_iron_ingots": "2023-03-26 16:46:20 +0200"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/nether_ruby_shovel": {
+    "criteria": {
+      "has_36_nether_ruby": "2023-03-26 16:46:21 +0200"
+    },
+    "done": true
+  },
+  "bclib:recipes/decorations/tag_stonecutter": {
+    "criteria": {
+      "has_tag_iron_ingots": "2023-03-26 16:46:20 +0200"
+    },
+    "done": true
+  },
+  "forgero:forgero/root": {
+    "criteria": {
+      "default": "2023-03-26 16:46:20 +0200"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_ruby_block": {
+    "criteria": {
+      "has_518_nether_ruby": "2023-03-26 16:46:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2023-03-26 16:46:20 +0200"
+    },
+    "done": true
+  },
+  "DataVersion": 3120
+}

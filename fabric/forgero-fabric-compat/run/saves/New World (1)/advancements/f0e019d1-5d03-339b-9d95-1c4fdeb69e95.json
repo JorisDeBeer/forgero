@@ -1,0 +1,93 @@
+{
+  "betternether:ruby_ore": {
+    "criteria": {
+      "ruby_ore": "2023-03-26 17:10:38 +0200"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/nether_ruby_boots": {
+    "criteria": {
+      "has_38_nether_ruby": "2023-03-26 17:10:38 +0200"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/nether_ruby_pickaxe": {
+    "criteria": {
+      "has_33_nether_ruby": "2023-03-26 17:10:38 +0200"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/nether_ruby_hoe": {
+    "criteria": {
+      "has_42_nether_ruby": "2023-03-26 17:10:38 +0200"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/nether_ruby_helmet": {
+    "criteria": {
+      "has_35_nether_ruby": "2023-03-26 17:10:38 +0200"
+    },
+    "done": true
+  },
+  "forgero:forgero/handle": {
+    "criteria": {
+      "default": "2023-03-26 17:10:52 +0200"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/nether_ruby_shovel": {
+    "criteria": {
+      "has_36_nether_ruby": "2023-03-26 17:10:38 +0200"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/nether_ruby_leggings": {
+    "criteria": {
+      "has_39_nether_ruby": "2023-03-26 17:10:38 +0200"
+    },
+    "done": true
+  },
+  "forgero:forgero/root": {
+    "criteria": {
+      "default": "2023-03-26 17:10:07 +0200"
+    },
+    "done": true
+  },
+  "forgero:forgero/toolpart": {
+    "criteria": {
+      "handles": "2023-03-26 17:10:52 +0200"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/nether_ruby_chestplate": {
+    "criteria": {
+      "has_32_nether_ruby": "2023-03-26 17:10:38 +0200"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_ruby_block": {
+    "criteria": {
+      "has_512_nether_ruby": "2023-03-26 17:10:38 +0200"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/nether_ruby_axe": {
+    "criteria": {
+      "has_40_nether_ruby": "2023-03-26 17:10:38 +0200"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/nether_ruby_sword": {
+    "criteria": {
+      "has_30_nether_ruby": "2023-03-26 17:10:38 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2023-03-26 17:10:07 +0200"
+    },
+    "done": false
+  },
+  "DataVersion": 3120
+}

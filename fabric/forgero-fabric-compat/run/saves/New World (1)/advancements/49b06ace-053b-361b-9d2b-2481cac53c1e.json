@@ -1,0 +1,33 @@
+{
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2023-03-26 17:17:47 +0200"
+    },
+    "done": true
+  },
+  "forgero:forgero/root": {
+    "criteria": {
+      "default": "2023-03-26 17:12:26 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:skeleton": "2023-03-26 17:17:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2023-03-26 17:17:51 +0200"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2023-03-26 17:12:27 +0200"
+    },
+    "done": false
+  },
+  "DataVersion": 3120
+}

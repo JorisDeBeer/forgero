@@ -99,8 +99,8 @@ dependencies {
 	//modImplementation("dev.onyxstudios.cardinal-components-api:cardinal-components-entity:${project.cca_version}")
 
 	//ae2 testing
-	//modLocalRuntime "maven.modrinth:ae2:fabric-12.9.2"
-	//modLocalRuntime('teamreborn:energy:2.3.0')
+	modLocalRuntime "maven.modrinth:ae2:fabric-12.9.2"
+	modLocalRuntime('teamreborn:energy:2.3.0')
 
 	//IPN testing
 	//modCompileOnly "curse.maven:inventory-profiles-next-495267:4263990"

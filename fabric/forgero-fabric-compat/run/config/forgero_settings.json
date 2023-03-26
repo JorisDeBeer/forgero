@@ -15,5 +15,5 @@
   "baseSoulLevelRequirement": 1000,
   "useEntityAttributes": true,
   "hideRarity": true,
-  "exportGeneratedTextures": false
+  "exportGeneratedTextures": true
 }
