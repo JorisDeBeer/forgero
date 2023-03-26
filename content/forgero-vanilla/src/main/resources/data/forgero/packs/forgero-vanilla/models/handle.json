@@ -102,17 +102,6 @@
             -1,
             -1
           ]
-        },
-        {
-          "target": [
-            "type:SWORD",
-            "type:HANDLE",
-            "model:piglin_pommel.png"
-          ],
-          "offset": [
-            0,
-            0
-          ]
         }
       ]
     },

@@ -1,0 +1,176 @@
+{
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2023-03-26 16:01:03 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2023-03-26 16:01:03 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2023-03-26 16:01:03 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2023-03-26 16:01:03 +0200"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_pickaxe_diamond": {
+    "criteria": {
+      "has_20_diamond": "2023-03-26 16:01:03 +0200",
+      "has_18_diamond": "2023-03-26 16:01:03 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2023-03-26 16:01:03 +0200"
+    },
+    "done": true
+  },
+  "forgero:forgero/handle": {
+    "criteria": {
+      "default": "2023-03-26 16:01:03 +0200"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_axe_diamond": {
+    "criteria": {
+      "has_24_diamond": "2023-03-26 16:01:03 +0200",
+      "has_26_diamond": "2023-03-26 16:01:03 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2023-03-26 16:01:03 +0200"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/aeternium_axe": {
+    "criteria": {
+      "has_0_aeternium_axe_head": "2023-03-26 16:01:03 +0200"
+    },
+    "done": true
+  },
+  "forgero:forgero/toolpart": {
+    "criteria": {
+      "heads": "2023-03-26 16:01:03 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2023-03-26 16:01:04 +0200"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2023-03-26 16:01:03 +0200"
+    },
+    "done": true
+  },
+  "forgero:forgero/binding": {
+    "criteria": {
+      "default": "2023-03-26 16:01:03 +0200"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/aeternium_pickaxe": {
+    "criteria": {
+      "has_0_aeternium_pickaxe_head": "2023-03-26 16:01:03 +0200"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_shovel_diamond": {
+    "criteria": {
+      "has_23_diamond": "2023-03-26 16:01:03 +0200",
+      "has_21_diamond": "2023-03-26 16:01:03 +0200"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_sword_diamond": {
+    "criteria": {
+      "has_17_diamond": "2023-03-26 16:01:03 +0200",
+      "has_15_diamond": "2023-03-26 16:01:03 +0200"
+    },
+    "done": true
+  },
+  "betterend:recipes/tools/diamond_hammer": {
+    "criteria": {
+      "has_1232_diamond": "2023-03-26 16:01:03 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2023-03-26 16:01:03 +0200"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_hoe_diamond": {
+    "criteria": {
+      "has_27_diamond": "2023-03-26 16:01:03 +0200",
+      "has_29_diamond": "2023-03-26 16:01:03 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2023-03-26 16:01:03 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2023-03-26 16:01:03 +0200"
+    },
+    "done": true
+  },
+  "forgero:forgero/head": {
+    "criteria": {
+      "default": "2023-03-26 16:01:03 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2023-03-26 16:01:03 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2023-03-26 16:01:03 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2023-03-26 16:01:03 +0200"
+    },
+    "done": true
+  },
+  "forgero:forgero/root": {
+    "criteria": {
+      "default": "2023-03-26 16:01:03 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2023-03-26 16:01:03 +0200"
+    },
+    "done": true
+  },
+  "DataVersion": 3120
+}
