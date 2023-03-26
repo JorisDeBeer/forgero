@@ -106,5 +106,17 @@
   },
   "palette": {
     "name": "nether_ruby"
+  },
+  "custom_data": {
+    "enchantment": [
+      {
+        "targets": [
+          "type:PICKAXE_HEAD"
+        ],
+        "id": "betternether:ruby_fire",
+        "level": 1,
+        "force": true
+      }
+    ]
   }
 }

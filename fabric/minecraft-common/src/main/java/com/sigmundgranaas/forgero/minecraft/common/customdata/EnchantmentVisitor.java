@@ -54,6 +54,7 @@ public class EnchantmentVisitor extends ClassBasedVisitor<EnchantmentVisitor.Enc
 	public static class EnchantmentData {
 		private String id;
 		private int level;
+		private Boolean force = false;
 
 		/**
 		 * Embeds the enchantment into the {@link ItemStack} using native methods.
@@ -63,7 +64,7 @@ public class EnchantmentVisitor extends ClassBasedVisitor<EnchantmentVisitor.Enc
 		public void embed(ItemStack stack) {
 			RegistryUtils.safeId(id())
 					.flatMap(id -> RegistryUtils.safeRegistryLookup(Registry.ENCHANTMENT, id))
-					.filter(enchant -> enchant.isAcceptableItem(stack))
+					.filter(enchant -> enchant.isAcceptableItem(stack) || force())
 					.ifPresent(enchant -> stack.addEnchantment(enchant, level()));
 		}
 	}
