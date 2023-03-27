@@ -38,46 +38,6 @@
         },
         {
           "target": [
-            "type:PICKAXE",
-            "model:piglin_pickaxe_head.png"
-          ],
-          "template": "piglin_binding.png"
-        },
-        {
-          "target": [
-            "type:SHOVEL",
-            "model:piglin_shovel_head.png"
-          ],
-          "offset": [
-            -1,
-            -1
-          ],
-          "template": "piglin_binding.png"
-        },
-        {
-          "target": [
-            "type:HOE",
-            "model:piglin_hoe_head.png"
-          ],
-          "offset": [
-            1,
-            1
-          ],
-          "template": "piglin_binding.png"
-        },
-        {
-          "target": [
-            "type:AXE",
-            "model:piglin_axe_head.png"
-          ],
-          "offset": [
-            -1,
-            -1
-            ],
-          "template": "piglin_binding.png"
-        },
-        {
-          "target": [
             "type:AXE",
             "model:double_headed_axe_head.png"
           ],
