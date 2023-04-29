@@ -105,45 +105,6 @@
       }
     ]
   },
-  "custom_data": {
-    "enchantment": [
-      {
-        "targets": [
-          "type:PICKAXE_HEAD"
-        ],
-        "id": "minecraft:ruby_fire",
-        "level": 1
-      },
-      {
-        "targets": [
-          "type:SWORD_BLADE"
-        ],
-        "id": "betternether:ruby_fire",
-        "level": 1
-      },
-      {
-        "targets": [
-          "type:HOE_HEAD"
-        ],
-        "id": "betternether:ruby_fire",
-        "level": 1
-      },
-      {
-        "targets": [
-          "type:SHOVEL_HEAD"
-        ],
-        "id": "betternether:ruby_fire",
-        "level": 1
-      },
-      {
-        "targets": [
-          "type:AXE_HEAD"
-        ],
-        "id": "betternether:ruby_fire",
-        "level": 1
-      }
-    ]
-  },
   "palette": {
     "name": "nether_ruby"
   },
@@ -151,7 +112,11 @@
     "enchantment": [
       {
         "targets": [
-          "type:PICKAXE_HEAD"
+          "type:PICKAXE_HEAD",
+          "type:AXE_HEAD",
+          "type:SHOVEL_HEAD",
+          "type:HOE_HEAD",
+          "type:SWORD_BLADE"
         ],
         "id": "betternether:ruby_fire",
         "level": 1,

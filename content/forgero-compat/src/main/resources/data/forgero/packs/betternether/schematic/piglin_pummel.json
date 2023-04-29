@@ -45,20 +45,26 @@
         "order": "BASE",
         "operation": "ADDITION",
         "category": "LOCAL",
-        "value": 20
+        "value": 60
       },
       {
         "type": "RARITY",
         "order": "COMPOSITE",
         "operation": "MULTIPLICATION",
-        "value": 0.4
+        "value": 1.2
       },
       {
         "type": "DURABILITY",
         "order": "COMPOSITE",
         "category": "UTILITY",
         "operation": "MULTIPLICATION",
-        "value": 0.1
+        "value": 1.2
+      },
+      {
+        "type": "WEIGHT",
+        "order": "COMPOSITE",
+        "operation": "MULTIPLICATION",
+        "value": 1
       }
     ]
   },
